@@ -14,10 +14,10 @@ But we must go to School,but but we can not go to "Class After School".Now Pleas
 # China
 ## Your_Province
 ### Your_City
--[Your_School](http://your_school_website.com)
+[Your_School](http://your_school_website.com)
 
 从下面提交你的学校：
 # China
 ## Your_Province
 ### Your_City
--[Your_School](http://your_school_website.com)
+[Your_School](http://your_school_website.com)
